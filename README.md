@@ -65,5 +65,5 @@ If any data is modified, blockchain validation will fail.
 ---
 
 ## 👨‍💻 Author
-Aryan Wasade
+Hrujuta Sonkusare,Aryan Wasade(as a team)
 .........do all this using cmd prompt in pc
